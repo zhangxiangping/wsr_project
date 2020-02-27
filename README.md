@@ -14,7 +14,7 @@ gensim 3.4.0
 
 sklearn 0.20.0
 
-### You need to create a catelog for store word2vec.model.
+### You need to create a catelog for storing word2vec.model.
 
 Usage:
 1. mkdir model
