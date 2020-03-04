@@ -1,7 +1,8 @@
 # wsr_project
 
 ## The source code for WSR.
-## The pw_dataset can be obtained from https://github.com/zhangxiangping/pw_data
+
+The pw_dataset can be obtained from https://github.com/zhangxiangping/pw_data
 
 Python Version: 3.5.6
 
