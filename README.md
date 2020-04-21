@@ -18,9 +18,11 @@ sklearn 0.20.0
 
 ### You need to create a catelog for storing word2vec.model.
 
-Usage:
+Usage(generating wsr):
 1. mkdir model
 
 2. python word2vec.py
 
 3. python wsr.py
+
+This repo only contain wsr project code! The code of baseline methods can be find based the references!
