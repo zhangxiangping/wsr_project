@@ -23,6 +23,6 @@ Usage(generating wsr):
 
 2. python word2vec.py       //obtaining word embedding for word in vocabulary.   (This isn't word2vec baseline method, just a step in the proposed method)
 
-3. python wsr.py       //obtaining web service representation based on step 2.
+3. python wsr.py       //obtaining web service representation based on step 2. And evaluating the result of the proposed method.
 
 This repo only contain wsr project code! The code of baseline methods can be found as following:
