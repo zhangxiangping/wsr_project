@@ -37,7 +37,7 @@ doc2vec: https://radimrehurek.com/gensim/models/doc2vec.html
 
 twe-1: https://github.com/thunlp/topical_word_embeddings
 
-igba: 
+igba: https://gitee.com/qiaoxiang/igba
 
 scdv: https://github.com/dheeraj7596/SCDV
 
