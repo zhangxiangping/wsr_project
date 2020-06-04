@@ -26,10 +26,18 @@ Usage(generating wsr):
 3. python wsr.py       //obtaining web service representation based on step 2. And evaluating the result of the proposed method.
 
 This repo only contain wsr project code! The code of baseline methods can be found as following:
+
 tfidf: https://radimrehurek.com/gensim/models/tfidfmodel.html
+
 lda: https://radimrehurek.com/gensim/models/ldamodel.html
+
 word2vec: https://radimrehurek.com/gensim/models/word2vec.html
+
 doc2vec: https://radimrehurek.com/gensim/models/doc2vec.html
+
 twe-1: https://github.com/thunlp/topical_word_embeddings
+
+igba: 
+
 scdv: https://github.com/dheeraj7596/SCDV
 
